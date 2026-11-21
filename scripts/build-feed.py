@@ -21,6 +21,12 @@ def build_feed(app, version, destination):
     if not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", app) or not re.fullmatch(r"\d+\.\d+\.\d+", version):
         raise ValueError("Expected an application slug and a stable desktop version")
 
+    existing = destination / app / "release.json"
+    if existing.exists():
+        current = json.loads(existing.read_text(encoding="utf-8"))["version"]
+        if tuple(map(int, version.split("."))) < tuple(map(int, current.split("."))):
+            raise ValueError(f"Refusing to replace {current} with older version {version}")
+
     tag = f"{app}-desktop-v{version}"
     release = json.loads(fetch(f"https://api.github.com/repos/{REPOSITORY}/releases/tags/{tag}"))
     if release["tag_name"] != tag or release["draft"] or release["prerelease"]:
