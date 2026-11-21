@@ -1,0 +1,11 @@
+version: 1.1.24
+files:
+- url: https://github.com/mp-lb/releases/releases/download/forum-desktop-v1.1.24/Forum-linux-amd64.deb
+  size: 111098160
+  sha512: 9mcApAi+dNyl7pK6Np7xatGaUV8L3FbUrp1qvoz2dc5FozukScgpEArTjm020oN8x0P3zNRu+bPjLiORc7YADw==
+- url: https://github.com/mp-lb/releases/releases/download/forum-desktop-v1.1.24/Forum-linux-x86_64.rpm
+  size: 100285277
+  sha512: FDF5mGlsvHnm9Kn1QiSan5O4ZRdBBVtsZ5ezr21SSXfiatuNjmN/ZEO5ESJqKsI1HmRaLWcAUOsxmptw0IULaw==
+path: https://github.com/mp-lb/releases/releases/download/forum-desktop-v1.1.24/Forum-linux-amd64.deb
+sha512: 9mcApAi+dNyl7pK6Np7xatGaUV8L3FbUrp1qvoz2dc5FozukScgpEArTjm020oN8x0P3zNRu+bPjLiORc7YADw==
+releaseDate: 2026-11-21 07:47:29.611000+00:00
