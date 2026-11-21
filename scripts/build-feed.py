@@ -39,6 +39,10 @@ def build_feed(app, version, destination):
         if asset["state"] == "uploaded"
     }
 
+    for suffix in (".dmg", ".zip", ".deb", ".rpm", ".exe"):
+        if not any(name.endswith(suffix) for name in assets):
+            raise ValueError(f"{tag} is missing an uploaded {suffix} installer")
+
     manifests = {}
     for filename in MANIFESTS:
         manifest = yaml.safe_load(fetch(assets[filename]))

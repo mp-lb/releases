@@ -16,7 +16,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: desktop-feed
+  group: desktop-feed-${{ inputs.app || github.event.client_payload.app }}
   cancel-in-progress: false
 
 jobs:
@@ -40,5 +40,9 @@ jobs:
           git add -- "feeds/$APP_SLUG"
           if ! git diff --cached --quiet; then
             git commit -m "Publish $APP_SLUG desktop feed for $DESKTOP_VERSION"
-            git push
+            for _ in {1..5}; do
+              if git push; then exit 0; fi
+              git pull --rebase
+            done
+            exit 1
           fi
