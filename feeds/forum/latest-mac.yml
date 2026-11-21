@@ -1,11 +1,11 @@
-version: 1.1.24
+version: 1.1.25
 files:
-- url: https://github.com/mp-lb/releases/releases/download/forum-desktop-v1.1.24/Forum-1.1.24-arm64-mac.zip
-  sha512: /FwrHptL67/0rKVrnMY+SwUIEq1qgWsmdwPgn582hprlIbe8YOQBx6wOiHQ/i4BYR7YNl092EX27uhvMKDvH0w==
-  size: 139551354
-- url: https://github.com/mp-lb/releases/releases/download/forum-desktop-v1.1.24/Forum-1.1.24-arm64.dmg
-  sha512: hV8I8dIz/k21UlbMpkRKAVYLrVbgOtOoal9nDWYRyr3y5ISSlaeyB0rzgeFGI4hgpnk5fi/hZLuNjHi7qVETDA==
-  size: 147932628
-path: https://github.com/mp-lb/releases/releases/download/forum-desktop-v1.1.24/Forum-1.1.24-arm64-mac.zip
-sha512: /FwrHptL67/0rKVrnMY+SwUIEq1qgWsmdwPgn582hprlIbe8YOQBx6wOiHQ/i4BYR7YNl092EX27uhvMKDvH0w==
-releaseDate: '2026-11-21T07:50:20.359Z'
+- url: https://github.com/mp-lb/releases/releases/download/forum-desktop-v1.1.25/Forum-1.1.25-arm64-mac.zip
+  sha512: JYBvAfS9GJMezJ1Gco0pxUG3LxM1NpxyfHn8pgZx1dFBsEI0lQub7LQhopgK40DQfKCmWeJOcuaGygfpVKcwLQ==
+  size: 139552785
+- url: https://github.com/mp-lb/releases/releases/download/forum-desktop-v1.1.25/Forum-1.1.25-arm64.dmg
+  sha512: hZxzKTzyLJbpsf0y0qcJcFZ4wbhxTqXN3XLOyOJ9DlUBDkUyisqrSGc4dBog8WU3rwT+QNFR9glinl9qRZjlvQ==
+  size: 147927468
+path: https://github.com/mp-lb/releases/releases/download/forum-desktop-v1.1.25/Forum-1.1.25-arm64-mac.zip
+sha512: JYBvAfS9GJMezJ1Gco0pxUG3LxM1NpxyfHn8pgZx1dFBsEI0lQub7LQhopgK40DQfKCmWeJOcuaGygfpVKcwLQ==
+releaseDate: '2026-11-21T16:10:59.956Z'
