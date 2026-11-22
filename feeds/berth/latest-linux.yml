@@ -1,11 +1,11 @@
-version: 0.1.44
+version: 0.1.45
 files:
-- url: https://github.com/mp-lb/releases/releases/download/berth-desktop-v0.1.44/Berth-linux-amd64.deb
-  size: 112727384
-  sha512: FzfUvRNeIuN+RzMz9aUiaJQPzKtVe/V2H800tyYSzEbjWNA2aWsm8mT1wzApeJwJHuj38tMqqMx2BMmdUy+LPw==
-- url: https://github.com/mp-lb/releases/releases/download/berth-desktop-v0.1.44/Berth-linux-x86_64.rpm
-  size: 97553429
-  sha512: BqBxLoQVgFTeD2410oR8QcO/A6PpmLGn/2XO68ZsHSPinAHdYa+3ekCuveIn+YNDC38cHuuLf/HIbx+sTJzNiQ==
-path: https://github.com/mp-lb/releases/releases/download/berth-desktop-v0.1.44/Berth-linux-amd64.deb
-sha512: FzfUvRNeIuN+RzMz9aUiaJQPzKtVe/V2H800tyYSzEbjWNA2aWsm8mT1wzApeJwJHuj38tMqqMx2BMmdUy+LPw==
-releaseDate: 2026-11-22 18:58:27.953000+00:00
+- url: https://github.com/mp-lb/releases/releases/download/berth-desktop-v0.1.45/Berth-linux-amd64.deb
+  size: 112746808
+  sha512: VjJhkDx8a6UK3Ay6hM6TDkr0eQ/vnBJExOjIIsmHUxmRAi2qRwIhoosnZmj0bePQ5cTcAIzqBNn55D2bcHUrbQ==
+- url: https://github.com/mp-lb/releases/releases/download/berth-desktop-v0.1.45/Berth-linux-x86_64.rpm
+  size: 97545585
+  sha512: iMRVKBOZeQ0HRaEOJxVRikdU1uXbLF7P+PJrctnkPslu1J7A+P6DYHh2Z3+kpc+Q5Ki5MZvgvoHuDwimQ1yrSg==
+path: https://github.com/mp-lb/releases/releases/download/berth-desktop-v0.1.45/Berth-linux-amd64.deb
+sha512: VjJhkDx8a6UK3Ay6hM6TDkr0eQ/vnBJExOjIIsmHUxmRAi2qRwIhoosnZmj0bePQ5cTcAIzqBNn55D2bcHUrbQ==
+releaseDate: 2026-11-22 20:28:44.991000+00:00
