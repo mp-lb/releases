@@ -1,11 +1,11 @@
-version: 0.1.42
+version: 0.1.43
 files:
-- url: https://github.com/mp-lb/releases/releases/download/berth-desktop-v0.1.42/Berth-arm64.zip
-  sha512: u046AbYI5aMuPK98bEPRWRsm5shx+Uoc/Zxxw2Loe01805U6ghamI5uksCnSfsHYYLb/dql3Yg5zp3lc/z7/hg==
-  size: 144312578
-- url: https://github.com/mp-lb/releases/releases/download/berth-desktop-v0.1.42/Berth-arm64.dmg
-  sha512: iISKkQ/HgReUiR/42awd70MRQgsj1HyQCH9c/TjWr4uALIV8XBU8OOdM//SgCbNcLUnOXJs4T4SevypNQZGS5w==
-  size: 149192771
-path: https://github.com/mp-lb/releases/releases/download/berth-desktop-v0.1.42/Berth-arm64.zip
-sha512: u046AbYI5aMuPK98bEPRWRsm5shx+Uoc/Zxxw2Loe01805U6ghamI5uksCnSfsHYYLb/dql3Yg5zp3lc/z7/hg==
-releaseDate: '2026-11-22T17:30:14.652Z'
+- url: https://github.com/mp-lb/releases/releases/download/berth-desktop-v0.1.43/Berth-arm64.zip
+  sha512: N1Amy5XM2TKgV0OFdFVXZwNc3rCoAhU1oUAzb2jDtArcrt+oDq/p5qVswVplIC4XfaoZx4QknE4dXqOM30hkVg==
+  size: 144312580
+- url: https://github.com/mp-lb/releases/releases/download/berth-desktop-v0.1.43/Berth-arm64.dmg
+  sha512: m6wD7/e0qZKZD3QShF/5O5pU6xpKv4VbMI4Unn4Y48NPQp2TjpQqlkgVBEqxhnamkcJ5bB6wMut2Wjtfq7DMSA==
+  size: 149198402
+path: https://github.com/mp-lb/releases/releases/download/berth-desktop-v0.1.43/Berth-arm64.zip
+sha512: N1Amy5XM2TKgV0OFdFVXZwNc3rCoAhU1oUAzb2jDtArcrt+oDq/p5qVswVplIC4XfaoZx4QknE4dXqOM30hkVg==
+releaseDate: '2026-11-22T18:32:46.018Z'
