@@ -1,14 +1,14 @@
 {
   "assets": {
-    "Berth-arm64.dmg": "https://github.com/mp-lb/releases/releases/download/berth-desktop-v0.1.43/Berth-arm64.dmg",
-    "Berth-arm64.zip": "https://github.com/mp-lb/releases/releases/download/berth-desktop-v0.1.43/Berth-arm64.zip",
-    "Berth-linux-amd64.deb": "https://github.com/mp-lb/releases/releases/download/berth-desktop-v0.1.43/Berth-linux-amd64.deb",
-    "Berth-linux-x86_64.rpm": "https://github.com/mp-lb/releases/releases/download/berth-desktop-v0.1.43/Berth-linux-x86_64.rpm",
-    "Berth-windows-x64.exe": "https://github.com/mp-lb/releases/releases/download/berth-desktop-v0.1.43/Berth-windows-x64.exe",
-    "latest-linux.yml": "https://github.com/mp-lb/releases/releases/download/berth-desktop-v0.1.43/latest-linux.yml",
-    "latest-mac.yml": "https://github.com/mp-lb/releases/releases/download/berth-desktop-v0.1.43/latest-mac.yml"
+    "Berth-arm64.dmg": "https://github.com/mp-lb/releases/releases/download/berth-desktop-v0.1.44/Berth-arm64.dmg",
+    "Berth-arm64.zip": "https://github.com/mp-lb/releases/releases/download/berth-desktop-v0.1.44/Berth-arm64.zip",
+    "Berth-linux-amd64.deb": "https://github.com/mp-lb/releases/releases/download/berth-desktop-v0.1.44/Berth-linux-amd64.deb",
+    "Berth-linux-x86_64.rpm": "https://github.com/mp-lb/releases/releases/download/berth-desktop-v0.1.44/Berth-linux-x86_64.rpm",
+    "Berth-windows-x64.exe": "https://github.com/mp-lb/releases/releases/download/berth-desktop-v0.1.44/Berth-windows-x64.exe",
+    "latest-linux.yml": "https://github.com/mp-lb/releases/releases/download/berth-desktop-v0.1.44/latest-linux.yml",
+    "latest-mac.yml": "https://github.com/mp-lb/releases/releases/download/berth-desktop-v0.1.44/latest-mac.yml"
   },
-  "tag": "berth-desktop-v0.1.43",
-  "url": "https://github.com/mp-lb/releases/releases/tag/berth-desktop-v0.1.43",
-  "version": "0.1.43"
+  "tag": "berth-desktop-v0.1.44",
+  "url": "https://github.com/mp-lb/releases/releases/tag/berth-desktop-v0.1.44",
+  "version": "0.1.44"
 }
