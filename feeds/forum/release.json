@@ -1,14 +1,14 @@
 {
   "assets": {
-    "Forum-1.1.26-arm64-mac.zip": "https://github.com/mp-lb/releases/releases/download/forum-desktop-v1.1.26/Forum-1.1.26-arm64-mac.zip",
-    "Forum-1.1.26-arm64.dmg": "https://github.com/mp-lb/releases/releases/download/forum-desktop-v1.1.26/Forum-1.1.26-arm64.dmg",
-    "Forum-linux-amd64.deb": "https://github.com/mp-lb/releases/releases/download/forum-desktop-v1.1.26/Forum-linux-amd64.deb",
-    "Forum-linux-x86_64.rpm": "https://github.com/mp-lb/releases/releases/download/forum-desktop-v1.1.26/Forum-linux-x86_64.rpm",
-    "Forum-windows-x64.exe": "https://github.com/mp-lb/releases/releases/download/forum-desktop-v1.1.26/Forum-windows-x64.exe",
-    "latest-linux.yml": "https://github.com/mp-lb/releases/releases/download/forum-desktop-v1.1.26/latest-linux.yml",
-    "latest-mac.yml": "https://github.com/mp-lb/releases/releases/download/forum-desktop-v1.1.26/latest-mac.yml"
+    "Forum-1.1.27-arm64-mac.zip": "https://github.com/mp-lb/releases/releases/download/forum-desktop-v1.1.27/Forum-1.1.27-arm64-mac.zip",
+    "Forum-1.1.27-arm64.dmg": "https://github.com/mp-lb/releases/releases/download/forum-desktop-v1.1.27/Forum-1.1.27-arm64.dmg",
+    "Forum-linux-amd64.deb": "https://github.com/mp-lb/releases/releases/download/forum-desktop-v1.1.27/Forum-linux-amd64.deb",
+    "Forum-linux-x86_64.rpm": "https://github.com/mp-lb/releases/releases/download/forum-desktop-v1.1.27/Forum-linux-x86_64.rpm",
+    "Forum-windows-x64.exe": "https://github.com/mp-lb/releases/releases/download/forum-desktop-v1.1.27/Forum-windows-x64.exe",
+    "latest-linux.yml": "https://github.com/mp-lb/releases/releases/download/forum-desktop-v1.1.27/latest-linux.yml",
+    "latest-mac.yml": "https://github.com/mp-lb/releases/releases/download/forum-desktop-v1.1.27/latest-mac.yml"
   },
-  "tag": "forum-desktop-v1.1.26",
-  "url": "https://github.com/mp-lb/releases/releases/tag/forum-desktop-v1.1.26",
-  "version": "1.1.26"
+  "tag": "forum-desktop-v1.1.27",
+  "url": "https://github.com/mp-lb/releases/releases/tag/forum-desktop-v1.1.27",
+  "version": "1.1.27"
 }

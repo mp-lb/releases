@@ -1,11 +1,11 @@
-version: 1.1.26
+version: 1.1.27
 files:
-- url: https://github.com/mp-lb/releases/releases/download/forum-desktop-v1.1.26/Forum-linux-amd64.deb
-  size: 111102584
-  sha512: qaqdKFXQx400kbsr0WrwZLIqaJMkWVvWSPfcGVIZhcjBYsnBY6ZQ1cB2mXv4fY7Rzzdp+lnKSz+/ku/lbpx0xA==
-- url: https://github.com/mp-lb/releases/releases/download/forum-desktop-v1.1.26/Forum-linux-x86_64.rpm
-  size: 100277809
-  sha512: K2Mr8fMbzeqWory96XsqTUGOAGijWhNNHxJwhKIKDlAWzjcZT32+5e0gZzoKdiQ64yurv+6HsW4owz55Rx9ioA==
-path: https://github.com/mp-lb/releases/releases/download/forum-desktop-v1.1.26/Forum-linux-amd64.deb
-sha512: qaqdKFXQx400kbsr0WrwZLIqaJMkWVvWSPfcGVIZhcjBYsnBY6ZQ1cB2mXv4fY7Rzzdp+lnKSz+/ku/lbpx0xA==
-releaseDate: 2026-11-22 10:43:16.562000+00:00
+- url: https://github.com/mp-lb/releases/releases/download/forum-desktop-v1.1.27/Forum-linux-amd64.deb
+  size: 110894592
+  sha512: ZsaSjfUK9Vzt7mdP5cJWjVjubHiJirPxaxaPQ7ZlcAB7QJm7CqeLsT1HLICagkp0PyShOtQcQPFUKPrvOKMnwQ==
+- url: https://github.com/mp-lb/releases/releases/download/forum-desktop-v1.1.27/Forum-linux-x86_64.rpm
+  size: 100300533
+  sha512: Va4GzfMRHZCr3V6F0Xfl9PeSTEFKlAria+xQhoWy0ehPxg4qsNf6qevGWTpzGxz/cN15LKMRiJOsTI6n4oznXg==
+path: https://github.com/mp-lb/releases/releases/download/forum-desktop-v1.1.27/Forum-linux-amd64.deb
+sha512: ZsaSjfUK9Vzt7mdP5cJWjVjubHiJirPxaxaPQ7ZlcAB7QJm7CqeLsT1HLICagkp0PyShOtQcQPFUKPrvOKMnwQ==
+releaseDate: 2026-11-24 08:58:23.190000+00:00
