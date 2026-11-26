@@ -1,0 +1,11 @@
+version: 0.1.0
+files:
+- url: https://github.com/mp-lb/releases/releases/download/simplcode-desktop-v0.1.0/simplcode-linux-amd64.deb
+  size: 100503432
+  sha512: HYoAnVBqGpQBp8CsU9GOE/YFmnjZbRFY22G3eq4skqIFLyvPJ4wxlDdsGoySsdqjTsd8xPHxX9Bu685lmT4Nkg==
+- url: https://github.com/mp-lb/releases/releases/download/simplcode-desktop-v0.1.0/simplcode-linux-x86_64.rpm
+  size: 89763333
+  sha512: cWbVGqg8k35YBqtK8kofl7QBKJinCmqzyPYVfhhXg587HXstXVrvRufb5Qd9G58Ydpn6HJMD03enKEUeD3ZDQQ==
+path: https://github.com/mp-lb/releases/releases/download/simplcode-desktop-v0.1.0/simplcode-linux-amd64.deb
+sha512: HYoAnVBqGpQBp8CsU9GOE/YFmnjZbRFY22G3eq4skqIFLyvPJ4wxlDdsGoySsdqjTsd8xPHxX9Bu685lmT4Nkg==
+releaseDate: 2026-11-26 09:15:46.428000+00:00

@@ -1,0 +1,11 @@
+version: 0.1.0
+files:
+- url: https://github.com/mp-lb/releases/releases/download/simplcode-desktop-v0.1.0/simplcode-arm64.zip
+  sha512: /bdC1wOi7KonEWYr0hn596X2ZWGYsb8hfBSofxytlZZlHgTzOeY2lLoZLNc1wOqHABxH25PxdMQugEf6/gXR7w==
+  size: 124605498
+- url: https://github.com/mp-lb/releases/releases/download/simplcode-desktop-v0.1.0/simplcode-arm64.dmg
+  sha512: 3y4WNjfUTXH6jdduoBRYwrh/BPzuUDafLT7Bg28P9jcgPzNfTTKDv0a/wLF1/ttRTKibFiKHyk1MNEG2J7Bi4g==
+  size: 129092182
+path: https://github.com/mp-lb/releases/releases/download/simplcode-desktop-v0.1.0/simplcode-arm64.zip
+sha512: /bdC1wOi7KonEWYr0hn596X2ZWGYsb8hfBSofxytlZZlHgTzOeY2lLoZLNc1wOqHABxH25PxdMQugEf6/gXR7w==
+releaseDate: '2026-11-26T09:16:40.887Z'

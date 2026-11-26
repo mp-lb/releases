@@ -1,0 +1,14 @@
+{
+  "assets": {
+    "latest-linux.yml": "https://github.com/mp-lb/releases/releases/download/simplcode-desktop-v0.1.0/latest-linux.yml",
+    "latest-mac.yml": "https://github.com/mp-lb/releases/releases/download/simplcode-desktop-v0.1.0/latest-mac.yml",
+    "simplcode-arm64.dmg": "https://github.com/mp-lb/releases/releases/download/simplcode-desktop-v0.1.0/simplcode-arm64.dmg",
+    "simplcode-arm64.zip": "https://github.com/mp-lb/releases/releases/download/simplcode-desktop-v0.1.0/simplcode-arm64.zip",
+    "simplcode-linux-amd64.deb": "https://github.com/mp-lb/releases/releases/download/simplcode-desktop-v0.1.0/simplcode-linux-amd64.deb",
+    "simplcode-linux-x86_64.rpm": "https://github.com/mp-lb/releases/releases/download/simplcode-desktop-v0.1.0/simplcode-linux-x86_64.rpm",
+    "simplcode-windows-x64.exe": "https://github.com/mp-lb/releases/releases/download/simplcode-desktop-v0.1.0/simplcode-windows-x64.exe"
+  },
+  "tag": "simplcode-desktop-v0.1.0",
+  "url": "https://github.com/mp-lb/releases/releases/tag/simplcode-desktop-v0.1.0",
+  "version": "0.1.0"
+}
